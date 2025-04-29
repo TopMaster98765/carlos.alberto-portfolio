@@ -1,10 +1,10 @@
 module.exports = {
-  email: 'srmariano23@gmail.com',
+  email: 'c.alberto98765@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/evgpan',
+      url: 'https://github.com/kato114',
     },
     // {
     //   name: 'Instagram',
@@ -16,7 +16,7 @@ module.exports = {
     // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/carlos-maldonado-53772932a',
+      url: 'https://www.linkedin.com/in/carlos-alberto-53772932a',
     },
     // {
     //   name: 'Codepen',

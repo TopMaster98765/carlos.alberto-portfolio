@@ -18,7 +18,7 @@
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [https://carlos-maldonado.vercel.app](https://carlos-maldonado.vercel.app). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [https://carlos-alberto.vercel.app](https://carlos-alberto.vercel.app). Thanks!
 
 ## 🛠 Installation & Set Up
 

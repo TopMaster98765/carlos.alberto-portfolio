@@ -2,10 +2,10 @@
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Carlos Maldonado <srmariano23@gmail.com>",
+  "author": "Carlos Alberto <srmariano23@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evgpan/carlos.maldonado.git"
+    "url": "https://github.com/TopMaster98765/carlos.alberto-portfolio.git"
   },
   "keywords": [
     "gatsby"
