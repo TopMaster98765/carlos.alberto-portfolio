@@ -60,7 +60,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Greetings! My name is</h1>;
-  const two = <h2 className="big-heading">Carlos Alberto</h2>;
+  const two = <h2 className="big-heading">Carlos Valencia</h2>;
   const three = <h3 className="medium-heading">Full stack engineer</h3>;
   const four = (
     <>
@@ -69,7 +69,7 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Carlos Alberto, an accomplished Full Stack Engineer with over 10 years of experience in designing and developing scalable web applications.
+        I am Carlos Valencia, an accomplished Full Stack Engineer with over 10 years of experience in designing and developing scalable web applications.
       </p>
 
       <p>

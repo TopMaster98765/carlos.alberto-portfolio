@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/evgpan">
-          <div>Built by Carlos Alberto<br></br>
+          <div>Built by Carlos Valencia<br></br>
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

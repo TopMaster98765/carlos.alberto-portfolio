@@ -16,7 +16,7 @@ module.exports = {
     // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/carlos-alberto-53772932a',
+      url: 'https://www.linkedin.com/in/cyvalencia/',
     },
     // {
     //   name: 'Codepen',

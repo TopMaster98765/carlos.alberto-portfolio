@@ -2,10 +2,10 @@
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Carlos Alberto <srmariano23@gmail.com>",
+  "author": "Carlos Valencia <c.alberto98765@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TopMaster98765/carlos.alberto-portfolio.git"
+    "url": "https://github.com/TopMaster98765/carlos.valencia-portfolio.git"
   },
   "keywords": [
     "gatsby"

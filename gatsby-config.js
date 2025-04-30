@@ -2,10 +2,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Carlos Alberto',
+    title: 'Carlos Valencia',
     description:
-      'Carlos Alberto is a full stack engineer.',
-    siteUrl: 'https://carlos-alberto.vercel.app/', // No trailing slash allowed!
+      'Carlos Valencia is a full stack engineer.',
+    siteUrl: 'https://carlos-valencia.vercel.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@null',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Carlos Alberto',
-        short_name: 'Carlos Alberto',
+        name: 'Carlos Valencia',
+        short_name: 'Carlos Valencia',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
