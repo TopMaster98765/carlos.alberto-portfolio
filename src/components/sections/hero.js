@@ -61,7 +61,7 @@ const Hero = () => {
 
   const one = <h1>Greetings! My name is</h1>;
   const two = <h2 className="big-heading">Carlos Valencia</h2>;
-  const three = <h3 className="medium-heading">Full stack engineer</h3>;
+  const three = <h3 className="medium-heading">Full stack | Blockchain Developer</h3>;
   const four = (
     <>
       <p>
@@ -69,11 +69,11 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Carlos Valencia, an accomplished Full Stack Engineer with over 10 years of experience in designing and developing scalable web applications.
+        I am Carlos Valencia, an accomplished Full Stack Developer with extensive experience in designing and developing scalable web applications.
       </p>
 
       <p>
-      I hold a Bachelor's Degree in Computer Science from the University of the Philippines Diliman.
+      I hold a Bachelor's Degree in Information Technology from Don Bosco Technical College in Philippines.
       </p>
 
       {/* <p>
@@ -86,7 +86,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href={`mailto:${'srmariano23@gmail.com'}`}
+      href={`mailto:${'c.alberto98765@gmail.com'}`}
       target="_blank"
       rel="noreferrer">
       Get in Touch

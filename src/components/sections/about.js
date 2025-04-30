@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'TypeScript', 'Rust', 'Python', 'Go', 'Solidity',  'React', 'Next', 'Node.js', 'Nest.js', 'Ethereum', 'Solana',
+  const skills = ['JavaScript', 'TypeScript', 'Rust', 'Java', 'Python', 'Solidity',  'React', 'Next', 'Node.js', 'Nest.js', 'Ethereum', 'Solana',
     'MySQL','PostgreSQL', 'MongoDB',  'REST API', 'Docker', 'AWS'];
 
   return (
@@ -136,7 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              My expertise spans technologies such as React, Node.js, and Python, allowing me to create user-friendly interfaces and optimize application performance.
+              My expertise spans technologies such as React, Node.js, Java, Spring Boot and Python, allowing me to create user-friendly interfaces and optimize application performance.
             </p>
 
             <p>
