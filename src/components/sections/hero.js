@@ -73,7 +73,7 @@ const Hero = () => {
       </p>
 
       <p>
-      I hold a Bachelor's Degree in Information Technology from Don Bosco Technical College in Philippines.
+      I hold a Bachelor's Degree in Information Technology from Don Bosco Technical College in Philippine.
       </p>
 
       {/* <p>
